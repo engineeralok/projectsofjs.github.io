@@ -14,3 +14,8 @@
 #logo{
     height: 9vh;
 }
+
+nav{
+    border: 1px solid red;
+}
+
